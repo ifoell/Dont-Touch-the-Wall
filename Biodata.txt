@@ -1,0 +1,10 @@
+“DON'T TOUCH THE WALL!” 
+MENGGUNAKAN BLENDER GAME ENGINE
+	
+Nama 			: Syaiful Haq Al Furuqi
+NPM			: 5A413515
+Kelas			: 3IA26
+Fakultas 		: Teknologi Industri
+Jurusan 		: Teknik Informatika
+Jenjang			: S1
+Penanggung Jawab (PJ)	: Aviv Arifian Darmanto
